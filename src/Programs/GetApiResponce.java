@@ -10,6 +10,7 @@ public class GetApiResponce {
 //from master
 int a;
 
+//from new
 	}
 
 }
