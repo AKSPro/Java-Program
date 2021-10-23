@@ -6,7 +6,7 @@ public class getMinValueFromMatrix {
 	static Scanner sn;
 
 	public static void getMin() {
-
+///test
 		sn = new Scanner(System.in);
 
 		int first[][] = new int[3][3];
