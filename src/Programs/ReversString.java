@@ -23,7 +23,7 @@ public class ReversString {
 		
 		String str = "ranoS hselihkA";
 		
-		StringBuilder str1=new StringBuilder(str);
+		StringBuilder str1=new StringBuilder();
 		System.out.println(str1.reverse());
 		
 	}
