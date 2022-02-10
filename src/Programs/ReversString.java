@@ -21,7 +21,7 @@ public class ReversString {
 	
 	public static void ReversmethodOfStringBuilder() {
 		
-		String str = "ranoS hselihkA123AKS";
+		String str = "AKSNEW";
 		
 		StringBuilder str1=new StringBuilder(str);
 		System.out.println(str1.reverse());
